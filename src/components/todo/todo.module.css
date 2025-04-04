@@ -4,6 +4,10 @@
 	border-bottom: 1px solid #bbb;
 }
 
+.todo:last-child {
+	border: none;
+}
+
 .checkbox {
 	width: 20px;
 	height: 20px;
